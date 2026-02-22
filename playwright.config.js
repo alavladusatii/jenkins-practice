@@ -26,9 +26,7 @@ export default defineConfig({
       },
     },
 
-    Report,[
-      ['html',{open:'never'}]
-    ],
+   
     
 
   /*
